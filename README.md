@@ -33,7 +33,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+Main Demo
 ![](app/src/main/res/twitter_part_2.gif)
+
+Parceable
+![](app/src/main/res/parcelable_models.png)
+![](app/src/main/res/sending_parcel.png)
 
 ## Notes
 

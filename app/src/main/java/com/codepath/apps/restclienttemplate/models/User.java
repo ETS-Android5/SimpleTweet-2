@@ -11,6 +11,7 @@ public class User {
     public String screenName;
     public String profileImageUrl;
 
+    // Empty constructor for Parcelable support
     public User() {}
 
     public static User fromJson(JSONObject jsonObject) throws JSONException {
